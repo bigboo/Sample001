@@ -12,3 +12,5 @@ add dev branch on S430 after merge
 new master edit after dev branch commit
 
 for origin push new dev branch
+
+for git gui
