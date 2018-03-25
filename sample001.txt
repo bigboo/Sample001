@@ -1,3 +1,5 @@
 Git is free software.
 I like Git
 It's good work.
+
+xSSD edition
