@@ -3,3 +3,5 @@ I like Git
 It's good work.
 
 add dev branch on S430
+
+new master edit after dev branch commit
